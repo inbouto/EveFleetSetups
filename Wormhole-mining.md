@@ -15,9 +15,9 @@ A "Wormhole" describes the connection between J-Space systems, not the systems t
 
 The plan of this operation is split into 3 phases :
 - **[preparations](#Preparations)**
-- **[probing](#Probing phase)**
-- **[mining](#Mining phase)**
-- **[retrieval](#Retrieval phase)**
+- **[probing](#Probing-phase)**
+- **[mining](#Mining-phase)**
+- **[retrieval](#Retrieval-phase)**
 
 ### Preparations
 A starting high sec system must be selected, from which wormhole exploration will begin. This system should have the following features :
