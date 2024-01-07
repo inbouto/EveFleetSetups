@@ -21,38 +21,29 @@ The plan of this operation is split into 3 phases (as well as general preparatio
 - **[retrieval](#Retrieval-phase)**
 
 ### Preparations
-<details>
-  <summary>Click to expand</summary>
 A starting high sec system must be selected, from which wormhole exploration will begin. This system should have the following features :
 - Be relatively close to a trade hub, refinery, or other station where the expedition's loot should be retrieved
 - Be as quiet as possible. Less activity in the system means fewer people entering that wormhole, which will attract fewer gankers from high-sec
 
 Speed is the name of the game, as Wormholes can collapse behind your entire fleet without warning (for instance in case some wormhole corporation decided to roll a wormhole, to reach more loot). <br>
 There should be as little delay as possible between the probing and retrieval phases to avoid getting trapped in J-space.
-</details>
 
 ### Probing phase
-<details>
-  <summary>Click to expand</summary>
 A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining-phase)** and **[retrieval](#Retrieval-phase)** phases.<br>
 Wormholes (and possibly gas site) signatures are then saved in a shared location folder accessible by all fleet members.<br>
 Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the **[mining phase](#Mining-phase)** can begin.
-</details>
+
 
 ### Mining phase
-<details>
-  <summary>Click to expand</summary>
 After selecting an ore or gas site the ["*Motorcade*"](#The_Motorcade) can start making its way to the mining site.<br>
 Once on the chosen site, mining ships can start mining the ore or gas. Depending on the specific fleet setup, compression may be available on-site, and mining ships may have to haul their ore to the fleet hauler themselves.<br>
 Once the Fleet Commander calls to retreat, the [motorcade](#The_Motorcade) will escort the mining ships out, leaving the fleet hauler (and possibly Porpoise or Orca) behind.<br>
 The [retrieval phase](#Retrieval-phase) can then begin.
-</details>
+
 
 ### Retrieval phase
-<details>
-  <summary>Click to expand</summary>
 The [motorcade](#The_Motorcade) will make its way back to the Hauler to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
-</details>
+
 
 ## Fleet Setups
 
@@ -61,24 +52,16 @@ The [motorcade](#The_Motorcade) will make its way back to the Hauler to escort i
 ## Fleet Roles
 
 ### The Royal Guard
-<details>
-  <summary>Click to expand</summary>
-The "[Royal Guard](https://youtu.be/PhrB0TZdQqE)" is another probing ship that should always directly precede the [main hauler](#main-hauler). 
-</details>
-
+The "[Royal Guard](https://youtu.be/PhrB0TZdQqE)" is another probing ship that should always directly precede the [main hauler](#main-hauler).
 
 ### The Motorcade
-<details>
-  <summary>Click to expand</summary>
 This formation is designed to avoid any ship getting "stuck" in J-space. This can happen when a wormhole collapses while the fleet is in-transit, stranding some fleet members on one side or another of the wormhole.<br>
 For this reason, the motorcade should be headed and trailed by dedicated probing ships.<br>
 <br>
 The name "*Motorcade*" is inspired by the U.S.A's [presidential motorcade](https://youtu.be/88vmzn_LufA)
-</details>
+
 
 #### Head Scouts
-<details>
-  <summary>Click to expand</summary>
 The head scouts are the head of the motorcade. They are the first section to jump into a wormhole. For this reason, they are most at risk of being killed by a wormhole camp.<br>
 The many risks include (but are not limited to):
 - Interdiction spheres
@@ -88,20 +71,13 @@ The many risks include (but are not limited to):
 For this reason, the head scouts should always be comprised of a covert ops ship, fitted with a **covert ops cloak**, an **interdiction nullifier**, as well as a **warp core stabilizer**, and maximizing align time and general elusiveness.<br>
 For the sake of keeping the fleet flexible in case of a [split](#split) or other emergency, it is also desirable for the head scouts to be holding a **mobile depot**, for instance allowing mining ships to fit a probe launcher and serve as a makeshift [tail scouts](#tail-scouts).<br>
 Please note that while the head scouts are a probing ship, the systems they will venture into should already have been probed down. The head scouts should already have access to safe spot and entry and exit wormhole locations, and should not have to scan wormhole signatures during normal operations.
-</details>
 
 #### The Payload
-<details>
-  <summary>Click to expand</summary>
 This section is whatever ships are currently being escorted by the motorcade. They usually don't have a role within the motorcade, but can sometimes be retro-fitted to support the motorcade in case of a [split](#split).
-</details>
 
 #### Tail Scouts
-<details>
-  <summary>Click to expand</summary>
 Similar to [the head scouts](#head-scouts), the tail scouts are tasked with finding a new way out in case of a [split](#split).<br>
 After a [split](#split), the tail scouts should assume the role of head scouts for the group that is left behind.<br>
 For this reason, while the tail scouts are not in as much immediate danger as [the head scouts](#head-scouts) during normal operations, they should still be similarly fitted with a **covert ops cloak**, an **interdiction nullifier**, as well as a **warp core stabilizer**, and maximizing align time and general elusiveness.
-</details>
 
 #### 
