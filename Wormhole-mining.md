@@ -19,8 +19,8 @@ The plan of this operation is split into 3 phases (as well as general preparatio
 - **[mining](#Mining-phase)**
 - **[retrieval](#Retrieval-phase)**
 
-<details id="preparations">
-  <summary>Preparations</summary>
+### Preparations
+<details>
 A starting high sec system must be selected, from which wormhole exploration will begin. This system should have the following features :
 - Be relatively close to a trade hub, refinery, or other station where the expedition's loot should be retrieved
 - Be as quiet as possible. Less activity in the system means fewer people entering that wormhole, which will attract fewer gankers from high-sec
