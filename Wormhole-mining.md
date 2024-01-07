@@ -38,7 +38,7 @@ If the site is brand new, that will trigger the rats spawn timer, which will req
 Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the [ratting phase](#ratting-phase) can begin.
 
 ### Ratting phase
-Formations used : [the motorcade](#the-motorcade), [the ratters](#the-ratters)<br>
+**Formations used : [the motorcade](#the-motorcade), [the ratters](#the-ratters)**<br>
 Rats will spawn a few minutes on ore or gas sites after a player ship first warps into it. This means a prospected site will be in one of 3 states :
 - Brand new, rats not yet triggered, but will be coming in 15-20 minutes
 - Rats already triggered and present on-site
@@ -49,7 +49,7 @@ In the first 2 cases, a squad of combat PvE ships needs to be sent in to clear t
 It is also worth noting that some gas sites do not require their rats to be cleared, as techniques like "Chameleon huffing", "Jedi huffing" and "Sonic huffing" can be used to huff around the rats.
 
 ### Mining phase
-Formations used : [the motorcade](#the-motorcade), [the swarm](#the-swarm)<br>
+**Formations used : [the motorcade](#the-motorcade), [the swarm](#the-swarm)**<br>
 After selecting an ore or gas site the ["*Motorcade*"](#The_Motorcade) can start escorting [the swarm](#the-swarm) to the mining site.<br>
 Once on the chosen site, the swarm the ore or gas. Depending on the specific swarm setup, compression may be available on-site, and mining ships may have to haul their ore to the main hauler themselves.<br>
 Once the Fleet Commander calls to retreat, the [motorcade](#The_Motorcade) will escort the swarm out, leaving the [royal convoy](#the-royal-convoy) behind.<br>
@@ -57,7 +57,7 @@ The [retrieval phase](#Retrieval-phase) can then begin.
 
 
 ### Retrieval phase
-Formations used : [the motorcade](#the-motorcade)
+**Formations used : [the motorcade](#the-motorcade), [the royal guard](#the-royal-guard)<br>**
 The [motorcade](#The_Motorcade) will make its way back to the [royal convoy](#the-royal-convoy) to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
 
 ## Fleet Setups
