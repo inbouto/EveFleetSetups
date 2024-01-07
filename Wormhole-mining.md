@@ -28,15 +28,15 @@ Speed is the name of the game, as Wormholes can collapse behind your entire flee
 There should be as little delay as possible between the probing and retrieval phases to avoid getting trapped in J-space.
 
 ### Probing phase
-A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining_phase)** and **[retrieval](#Retrieval_phase)** phases.<br>
+A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining-phase)** and **[retrieval](#Retrieval-phase)** phases.<br>
 Wormholes (and possibly gas site) signatures are then saved in a shared location folder accessible by all fleet members.<br>
-Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the **[mining phase](#Mining_phase)** can begin.
+Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the **[mining phase](#Mining-phase)** can begin.
 
 ### Mining phase
 After selecting an ore or gas site the ["*Motorcade*"](#The_Motorcade) can start making its way to the mining site.<br>
 Once on the chosen site, mining ships can start mining the ore or gas. Depending on the specific fleet setup, compression may be available on-site, and mining ships may have to haul their ore to the fleet hauler themselves.<br>
 Once the Fleet Commander calls to retreat, the [motorcade](#The_Motorcade) will escort the mining ships out, leaving the fleet hauler (and possibly Porpoise or Orca) behind.<br>
-The [retrieval phase](#Retrieval_phase) can then begin.
+The [retrieval phase](#Retrieval-phase) can then begin.
 
 ### Retrieval phase
 The [motorcade](#The_Motorcade) will make its way back to the Hauler to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
@@ -59,10 +59,15 @@ The many risks include (but are not limited to):
 - Stealth bombers
 - Strategic cruisers (very popular in J-space)
 
-For this reason, the vanguard should always be comprised of a covert ops ship, one fitted both with a covert ops cloak, and an interdiction nullifier.
+For this reason, the vanguard should always be comprised of a covert ops ship, fitted both with a **covert ops cloak**, an **interdiction nullifier**, as well as a **warp core stabilizer**, and maximizing align time and general elusiveness.<br>
+For the sake of keeping the fleet flexible in case of an emergency, it is also desirable for the vanguard to be holding a **mobile depot**, for instance allowing mining ships to fit a probe launcher and serve as a makeshift [rearguard](#the-rearguard).
 
 #### The Payload
+This section is whatever ships are currently being escorted by the motorcade. They usually don't have a role within the motorcade, but can sometimes be .
 
 #### The Rearguard
+Similar to [the vanguard](#the-vanguard), the rearguard is tasked with finding a new way out if the motorcade gets split by a wormhole collapsing during passage.<br>
+In case of a split, the rearguard should assume the role of vanguard for the group that is left behind.<br>
+For this reason, while the rearguard is not in as much immediate danger as [the vanguard](#the-vanguard) during normal operations, it should still be similarily fitted with a **covert ops cloak**, an **interdiction nullifier**, as well as a **warp core stabilizer**, and maximizing align time and general elusiveness.
 
 #### 
