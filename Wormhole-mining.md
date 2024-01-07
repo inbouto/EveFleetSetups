@@ -58,7 +58,7 @@ The [retrieval phase](#Retrieval-phase) can then begin.
 
 ### Retrieval phase
 **Formations used : [the motorcade](#the-motorcade), [the royal guard](#the-royal-guard)<br>**
-The [motorcade](#The_Motorcade) will make its way back to the [royal convoy](#the-royal-convoy) to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
+The [motorcade](#The_Motorcade) will make its way back to the [royal convoy](#the-royal-convoy) to escort it out of J-space. Once in high-sec, ore and gas can be brought to the designated retrieval station.
 
 ## Fleet Setups
 
