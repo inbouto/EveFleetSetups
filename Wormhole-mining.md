@@ -21,6 +21,7 @@ The plan of this operation is split into 3 phases (as well as general preparatio
 
 ### Preparations
 <details>
+  <summary>Click to expand</summary>
 A starting high sec system must be selected, from which wormhole exploration will begin. This system should have the following features :
 - Be relatively close to a trade hub, refinery, or other station where the expedition's loot should be retrieved
 - Be as quiet as possible. Less activity in the system means fewer people entering that wormhole, which will attract fewer gankers from high-sec
@@ -30,18 +31,27 @@ There should be as little delay as possible between the probing and retrieval ph
 </details>
 
 ### Probing phase
+<details>
+  <summary>Click to expand</summary>
 A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining-phase)** and **[retrieval](#Retrieval-phase)** phases.<br>
 Wormholes (and possibly gas site) signatures are then saved in a shared location folder accessible by all fleet members.<br>
 Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the **[mining phase](#Mining-phase)** can begin.
+</details>
 
 ### Mining phase
+<details>
+  <summary>Click to expand</summary>
 After selecting an ore or gas site the ["*Motorcade*"](#The_Motorcade) can start making its way to the mining site.<br>
 Once on the chosen site, mining ships can start mining the ore or gas. Depending on the specific fleet setup, compression may be available on-site, and mining ships may have to haul their ore to the fleet hauler themselves.<br>
 Once the Fleet Commander calls to retreat, the [motorcade](#The_Motorcade) will escort the mining ships out, leaving the fleet hauler (and possibly Porpoise or Orca) behind.<br>
 The [retrieval phase](#Retrieval-phase) can then begin.
+</details>
 
 ### Retrieval phase
+<details>
+  <summary>Click to expand</summary>
 The [motorcade](#The_Motorcade) will make its way back to the Hauler to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
+</details>
 
 ## Fleet Setups
 
