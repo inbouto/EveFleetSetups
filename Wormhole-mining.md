@@ -30,7 +30,7 @@ Speed is the name of the game, as Wormholes can collapse behind your entire flee
 There should be as little delay as possible between the probing and retrieval phases to avoid getting trapped in J-space.
 
 ### Probing phase
-<u>Formations used : [the probing squad](#the-probing-squad)</u><br>
+**Formations used : [the probing squad](#the-probing-squad)**<br>
 A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining-phase)** and **[retrieval](#Retrieval-phase)** phases.<br>
 Wormholes (and possibly gas site) signatures are then saved in a shared location folder accessible by all fleet members.<br>
 Once an interesting site is found, a probing squad member is tasked with warping over to the site, and using a **survey scanner** to identify the remaining resources on-site.<br>
