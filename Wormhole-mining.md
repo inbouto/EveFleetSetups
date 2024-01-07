@@ -49,7 +49,7 @@ In the first 2 cases, a squad of combat PvE ships needs to be sent in to clear t
 It is also worth noting that some gas sites do not require their rats to be cleared, as techniques like "Chameleon huffing", "Jedi huffing" and "Sonic huffing" can be used to huff around the rats.
 
 ### Mining phase
-**Formations used : [the motorcade](#the-motorcade), [the swarm](#the-swarm)**<br>
+**Formations used : [the motorcade](#the-motorcade), [the swarm](#the-swarm), [the royal guard](#the-royal-guard)**<br>
 After selecting an ore or gas site the ["*Motorcade*"](#The_Motorcade) can start escorting [the swarm](#the-swarm) to the mining site.<br>
 Once on the chosen site, the swarm the ore or gas. Depending on the specific swarm setup, compression may be available on-site, and mining ships may have to haul their ore to the main hauler themselves.<br>
 Once the Fleet Commander calls to retreat, the [motorcade](#The_Motorcade) will escort the swarm out, leaving the [royal convoy](#the-royal-convoy) behind.<br>
