@@ -13,19 +13,21 @@ A "Wormhole" describes the connection between J-Space systems, not the systems t
 
 ## Planning
 
-The plan of this operation is split into 3 phases :
+The plan of this operation is split into 3 phases (as well as general preparations) :
 - **[preparations](#Preparations)**
 - **[probing](#Probing-phase)**
 - **[mining](#Mining-phase)**
 - **[retrieval](#Retrieval-phase)**
 
-### Preparations
+<details id="preparations">
+  <summary>Preparations</summary>
 A starting high sec system must be selected, from which wormhole exploration will begin. This system should have the following features :
 - Be relatively close to a trade hub, refinery, or other station where the expedition's loot should be retrieved
 - Be as quiet as possible. Less activity in the system means fewer people entering that wormhole, which will attract fewer gankers from high-sec
 
 Speed is the name of the game, as Wormholes can collapse behind your entire fleet without warning (for instance in case some wormhole corporation decided to roll a wormhole, to reach more loot). <br>
 There should be as little delay as possible between the probing and retrieval phases to avoid getting trapped in J-space.
+</details>
 
 ### Probing phase
 A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining-phase)** and **[retrieval](#Retrieval-phase)** phases.<br>
@@ -43,7 +45,12 @@ The [motorcade](#The_Motorcade) will make its way back to the Hauler to escort i
 
 ## Fleet Setups
 
+### 
+
+## Fleet Roles
+
 ### The Royal Guard
+
 
 ### The Motorcade
 This formation is designed to avoid any ship getting "stuck" in J-space. This can happen when a wormhole collapses while the fleet is in-transit, stranding some fleet members on one side or another of the wormhole.<br>
@@ -60,14 +67,15 @@ The many risks include (but are not limited to):
 - Strategic cruisers (very popular in J-space)
 
 For this reason, the vanguard should always be comprised of a covert ops ship, fitted both with a **covert ops cloak**, an **interdiction nullifier**, as well as a **warp core stabilizer**, and maximizing align time and general elusiveness.<br>
-For the sake of keeping the fleet flexible in case of an emergency, it is also desirable for the vanguard to be holding a **mobile depot**, for instance allowing mining ships to fit a probe launcher and serve as a makeshift [rearguard](#the-rearguard).
+For the sake of keeping the fleet flexible in case of an emergency, it is also desirable for the vanguard to be holding a **mobile depot**, for instance allowing mining ships to fit a probe launcher and serve as a makeshift [rearguard](#the-rearguard).<br>
+Please note that while the vanguard is a probing ship, the systems it will venture into should already have been probed down. The vanguard should already have access to safe spot and entry and exit wormhole locations, and should not have to scan wormhole signatures during normal operations.
 
 #### The Payload
-This section is whatever ships are currently being escorted by the motorcade. They usually don't have a role within the motorcade, but can sometimes be .
+This section is whatever ships are currently being escorted by the motorcade. They usually don't have a role within the motorcade, but can sometimes be retro-fitted to support the motorcade in case of a [split](#split).
 
 #### The Rearguard
-Similar to [the vanguard](#the-vanguard), the rearguard is tasked with finding a new way out if the motorcade gets split by a wormhole collapsing during passage.<br>
-In case of a split, the rearguard should assume the role of vanguard for the group that is left behind.<br>
+Similar to [the vanguard](#the-vanguard), the rearguard is tasked with finding a new way out in case of a [split](#split).<br>
+After a [split](#split), the rearguard should assume the role of vanguard for the group that is left behind.<br>
 For this reason, while the rearguard is not in as much immediate danger as [the vanguard](#the-vanguard) during normal operations, it should still be similarily fitted with a **covert ops cloak**, an **interdiction nullifier**, as well as a **warp core stabilizer**, and maximizing align time and general elusiveness.
 
 #### 
