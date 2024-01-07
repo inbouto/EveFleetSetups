@@ -14,10 +14,10 @@ A "Wormhole" describes the connection between J-Space systems, not the systems t
 ## Planning
 
 The plan of this operation is split into 3 phases :
-- **(preparations)[#Preparations]**
-- **(probing)[#Probing_phase]**
-- **(mining)[#Mining_phase]**
-- **(retrieval)[#Retrieval_phase]**
+- **[preparations](#Preparations)**
+- **[probing](#Probing_phase)**
+- **[mining](#Mining_phase)**
+- **[retrieval](#Retrieval_phase)**
 
 ### Preparations
 A starting high sec system must be selected, from which wormhole exploration will begin. This system should have the following features :
@@ -28,18 +28,18 @@ Speed is the name of the game, as Wormholes can collapse behind your entire flee
 There should be as little delay as possible between the probing and retrieval phases to avoid getting trapped in J-space.
 
 ### Probing phase
-A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **(mining)[#Mining_phase]** and **(retrieval)[#Retrieval_phase]** phases.<br>
+A probing squad goes into the chosen starting wormhole and start probing down signatures. These ships can later transition into different roles during the **[mining](#Mining_phase)** and **[retrieval](#Retrieval_phase)** phases.<br>
 Wormholes (and possibly gas site) signatures are then saved in a shared location folder accessible by all fleet members.<br>
-Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the **(mining phase)[#Mining_phase]** can begin.
+Eventually, an ore or gas site is selected, and with a proper "breadcrumb trail" (a chain of bookmarked wormholes), the **[mining phase](#Mining_phase)** can begin.
 
 ### Mining phase
-After selecting an ore or gas site the ("*Motorcade*")[#The_Motorcade] can start making its way to the mining site.<br>
+After selecting an ore or gas site the ["*Motorcade*"](#The_Motorcade) can start making its way to the mining site.<br>
 Once on the chosen site, mining ships can start mining the ore or gas. Depending on the specific fleet setup, compression may be available on-site, and mining ships may have to haul their ore to the fleet hauler themselves.<br>
-Once the Fleet Commander calls to retreat, the (motorcade)[#The_Motorcade] will escort the mining ships out, leaving the fleet hauler (and possibly Porpoise or Orca) behind.<br>
-The (retrieval phase)[#Retrieval_phase] can then begin.
+Once the Fleet Commander calls to retreat, the [motorcade](#The_Motorcade) will escort the mining ships out, leaving the fleet hauler (and possibly Porpoise or Orca) behind.<br>
+The [retrieval phase](#Retrieval_phase) can then begin.
 
 ### Retrieval phase
-The (motorcade)[#The_Motorcade] will make its way back to the Hauler to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
+The [motorcade](#The_Motorcade) will make its way back to the Hauler to escort it out of J-space. Once in high-sec, ore and gas can be brought to designated retrieval station.
 
 ## Fleet Setups
 
@@ -49,7 +49,7 @@ The (motorcade)[#The_Motorcade] will make its way back to the Hauler to escort i
 This formation is designed to avoid any ship getting "stuck" in J-space. This can happen when a wormhole collapses while the fleet is in-transit, stranding some fleet members on one side or another of the wormhole.<br>
 For this reason, the motorcade should be headed and trailed by dedicated probing ships.<br>
 <br>
-The name "*Motorcade*" is inspired by the U.S.A's (presidential motorcade)[https://youtu.be/88vmzn_LufA]
+The name "*Motorcade*" is inspired by the U.S.A's [presidential motorcade](https://youtu.be/88vmzn_LufA)
 
 #### The Vanguard
 The vanguard is the head of the motorcade. It is the first section to jump into a wormhole. For this reason, it is most at risk of being killed by a wormhole camp.<br>
