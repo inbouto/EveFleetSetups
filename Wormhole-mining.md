@@ -6,9 +6,9 @@ For gas sites specifically, it is also advisable to be knowledgeable on differen
 It is also imperative that all fleet members be deeply familiar with the different phases of operations, as well as fleet formations and setups.
 
 ## Glossary
-"*Wormhole*": the anomaly that can be probed down which leads to a new system
-"*K-Space*": "normal" space, which includes all of high-sec, low-sec and nullsec.
-"*J-Space*": sometimes called "wormhole" space. Includes all systems only accessible through wormholes.
+"*Wormhole*": the anomaly that can be probed down which leads to a new system<br>
+"*K-Space*": "normal" space, which includes all of high-sec, low-sec and nullsec.<br>
+"*J-Space*": sometimes called "wormhole" space. Includes all systems only accessible through wormholes.<br>
 
 A "Wormhole" describes the connection between J-Space systems, not the systems themselves. Fleet commanders are invited to enforce strict nomenclature to avoid confusion for fleet members.
 
