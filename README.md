@@ -9,7 +9,7 @@ If you wish to contribute to the website's content, all the pages are located in
 If you're not sure how to use github, that's fine! Just copy-paste some of the content you'd like to see edited and reach out to Nofed Moped / inbouto on discord.
 
 
-
+# Boring techie part from here
 
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
