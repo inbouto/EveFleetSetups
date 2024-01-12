@@ -20,7 +20,9 @@ Why would I re-invent the wheel, huh ? ;p
 :::
 
 <details>
-<summary>Simple fit</summary>
+
+  <summary>Simple Venture fit</summary>
+
 This is a cheap, simple T1 fit.
 ```
 [Venture, Venture fit]
