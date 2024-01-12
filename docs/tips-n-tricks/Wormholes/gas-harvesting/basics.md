@@ -19,6 +19,8 @@ Why would I re-invent the wheel, huh ? ;p
 <iframe width="900" height="506" src="https://www.youtube.com/embed/4T10zNYlywc" frameborder="0" allowfullscreen></iframe>
 :::
 
+## Fit
+
 <details>
 
   <summary>Simple Venture fit</summary>
