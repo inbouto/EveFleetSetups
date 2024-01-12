@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkEveFleetsSetups=self.webpackChunkEveFleetsSetups||[]).push([[639],{5557:e=>{e.exports=JSON.parse('{"title":"Gas Harvesting","slug":"/category/gas-harvesting","permalink":"/docs/category/gas-harvesting","navigation":{"next":{"title":"Ninja huffing","permalink":"/docs/tips-n-tricks/Wormholes/gas-harvesting/ninja-huffing"}}}')}}]);

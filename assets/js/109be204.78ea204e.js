@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkEveFleetsSetups=self.webpackChunkEveFleetsSetups||[]).push([[639],{5557:s=>{s.exports=JSON.parse('{"title":"Gas Harvesting","slug":"/category/gas-harvesting","permalink":"/docs/category/gas-harvesting","navigation":{"next":{"title":"Wormhole gas harvesting basics","permalink":"/docs/tips-n-tricks/Wormholes/gas-harvesting/basics"}}}')}}]);
