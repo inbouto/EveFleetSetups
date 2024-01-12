@@ -16,5 +16,5 @@ Harvesting gas clouds (sometimes called "Huffing") in wormhole space can be very
 Why would I re-invent the wheel, huh ? ;p
 
 :::iframe
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4T10zNYlywc" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/4T10zNYlywc" frameborder="0" allowfullscreen></iframe>
 :::
