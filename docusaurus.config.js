@@ -76,6 +76,12 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'servicesSidebar',
+            position: 'left',
+            label: 'Corporation services',
+          },
+          {
+            type: 'docSidebar',
             sidebarId: 'fleetSidebar',
             position: 'left',
             label: 'Fleet setups',
