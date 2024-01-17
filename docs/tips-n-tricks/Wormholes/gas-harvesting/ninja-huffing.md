@@ -28,3 +28,7 @@ All sites can be ninja-huffed
 ### Ships
 
 All ships and fits can ninja-huff
+
+:::iframe
+
+<iframe width="900" height="506" src="https://www.youtube.com/embed/zhu45OPxIlI" frameborder="0" allowfullscreen></iframe> :::
