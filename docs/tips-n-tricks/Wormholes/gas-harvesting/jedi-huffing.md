@@ -1,6 +1,6 @@
 ---
 title: Jedi huffing
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 "Jedi" huffing consists of reducing our huffing ship's signature radius to significantly reduce the damage done by rats, to then use a small shield booster to regenerate the shield.
