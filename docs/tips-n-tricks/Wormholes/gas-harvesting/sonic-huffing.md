@@ -1,6 +1,6 @@
 ---
 title: Sonic huffing
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 "Sonic" huffing means kiting the rats, staying outside of their range, while orbiting the largest cloud of the site.
