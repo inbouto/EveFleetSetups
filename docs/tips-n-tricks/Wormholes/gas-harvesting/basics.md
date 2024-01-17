@@ -3,18 +3,30 @@ title: Wormhole gas harvesting basics
 sidebar_position: 1
 ---
 
+:::note
+
+This section will **NOT** be discussing K-space (high-sec, low-sec, null-sec) huffing. The actual mechanics of K-space clouds are vastly different.
+
+:::
+
 Harvesting gas clouds (sometimes called "Huffing") in wormhole space can be very dangerous and require a lot of preparation, but is also often very profitable and accessible to new players, including alpha clones, with very little skill investment.
 
 ## Requirements
-- [Gas cloud harvesting skill](https://wiki.eveuniversity.org/Skills:Resource_Processing#Gas_Cloud_Harvesting) At level 2 for T1 gas scoops, and level 5 for T2 scoops (T2 have residue, T1s do not)
+- [Gas cloud harvesting skill](https://wiki.eveuniversity.org/Skills:Resource_Processing#Gas_Cloud_Harvesting) At level 2 for T1 gas scoops, and level 5 for T2 scoops (T2s have residue, T1s do not)
 - A venture with a core probe launcher and 2 gas scoops (don't forget your 8 core probes ammunition minimum)
 - A basic understanding of the [Directional scanner, or Dscan](https://youtu.be/56Yx7nDJlAM) and the [Probe scanner and probe launcher](https://youtu.be/VRNoyPMBcKU) (typically an exploration tool, but necessary to find wormholes and  gas sites as well as exploration sites)
 - A basic understanding of [Wormholes and how to navigate them](https://youtu.be/KXchl0usz5M)
 
-## How to huff gas
+## How to huff gas in wormhole space
 
-Why would I re-invent the wheel, huh ? ;p
+Short version :
+- Equip a probe launcher on your gas-fitted venture
+- Use your probe scanner to find a suitable "entry" wormhole in K-space (usually high-sec)
+- **Bookmark ALL your entry and exit wormholes, and bookmark safe spots for every J system you visit**
+- Scan down signatures in the J systems you visit, until you find a gas cloud
+- Find the most valuable cloud and start huffing
 
+Long version:
 :::iframe
 <iframe width="900" height="506" src="https://www.youtube.com/embed/4T10zNYlywc" frameborder="0" allowfullscreen></iframe>
 :::
