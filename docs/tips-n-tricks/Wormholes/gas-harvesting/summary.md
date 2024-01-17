@@ -9,12 +9,12 @@ sidebar_position: 6
 |---------------|-----------|-------------|-------|-----------|------|-------|
 | Barren        |    C50    |     C60     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
 | Token         |    C60    |     C70     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
-| Mi<div class="red-background">No</div>r         |    C70    |     C72     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="green-background">Yes</div> |  <div class="red-background">No</div>   |
+| Minor         |    C70    |     C72     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="green-background">Yes</div> |  <div class="red-background">No</div>   |
 | Ordinary      |    C72    |     C84     |  <div class="red-background">No</div>   |    <div class="green-background">Yes</div>    |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
 | Sizeable      |    C84    |     C50     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
 | Bountiful     |    C28    |     C32     |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
 | Vast          |    C32    |     C28     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
-| Vital         |    C540   |     C320    |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="yellow-background"><div class="red-background">No</div>?</div> |  <div class="red-background">No</div>   |
+| Vital         |    C540   |     C320    |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="yellow-background">No?</div> |  <div class="red-background">No</div>   |
 | Instrumental  |    C320   |     C540    |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="green-background">Yes</div> |  <div class="green-background">Yes</div>  |
 
 ## Useful links
