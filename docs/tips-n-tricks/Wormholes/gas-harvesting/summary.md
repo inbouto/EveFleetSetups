@@ -7,15 +7,15 @@ sidebar_position: 6
 
 |       Site    | Big cloud | Small cloud | Ninja | Chameleon | Jedi | Sonic |
 |---------------|-----------|-------------|-------|-----------|------|-------|
-| Barren        |    C50    |     C60     |  <span style="background-color: green">Yes</span>  |    <span style="background-color: red">No</span>     |  <span style="background-color: red">No</span>  |  <span style="background-color: red">No</span>   |
-| Token         |    C60    |     C70     |  <span style="background-color: green">Yes</span>  |    <span style="background-color: red">No</span>     |  <span style="background-color: red">No</span>  |  <span style="background-color: red">No</span>   |
-| Mi<span style="background-color: red">No</span>r         |    C70    |     C72     |  <span style="background-color: green">Yes</span>  |    <span style="background-color: red">No</span>     |  <span style="background-color: green">Yes</span> |  <span style="background-color: red">No</span>   |
-| Ordinary      |    C72    |     C84     |  <span style="background-color: red">No</span>   |    <span style="background-color: green">Yes</span>    |  <span style="background-color: red">No</span>  |  <span style="background-color: red">No</span>   |
-| Sizeable      |    C84    |     C50     |  <span style="background-color: green">Yes</span>  |    <span style="background-color: red">No</span>     |  <span style="background-color: red">No</span>  |  <span style="background-color: red">No</span>   |
-| Bountiful     |    C28    |     C32     |  <span style="background-color: green">Yes</span>  |    <span style="background-color: green">Yes</span>    |  <span style="background-color: red">No</span>  |  <span style="background-color: red">No</span>   |
-| Vast          |    C32    |     C28     |  <span style="background-color: green">Yes</span>  |    <span style="background-color: red">No</span>     |  <span style="background-color: red">No</span>  |  <span style="background-color: red">No</span>   |
-| Vital         |    C540   |     C320    |  <span style="background-color: green">Yes</span>  |    <span style="background-color: green">Yes</span>    |  <span style="background-color: yellow"><span style="background-color: red">No</span>?</span> |  <span style="background-color: red">No</span>   |
-| Instrumental  |    C320   |     C540    |  <span style="background-color: green">Yes</span>  |    <span style="background-color: green">Yes</span>    |  <span style="background-color: green">Yes</span> |  <span style="background-color: green">Yes</span>  |
+| Barren        |    C50    |     C60     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
+| Token         |    C60    |     C70     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
+| Mi<div class="red-background">No</div>r         |    C70    |     C72     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="green-background">Yes</div> |  <div class="red-background">No</div>   |
+| Ordinary      |    C72    |     C84     |  <div class="red-background">No</div>   |    <div class="green-background">Yes</div>    |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
+| Sizeable      |    C84    |     C50     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
+| Bountiful     |    C28    |     C32     |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
+| Vast          |    C32    |     C28     |  <div class="green-background">Yes</div>  |    <div class="red-background">No</div>     |  <div class="red-background">No</div>  |  <div class="red-background">No</div>   |
+| Vital         |    C540   |     C320    |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="yellow-background"><div class="red-background">No</div>?</div> |  <div class="red-background">No</div>   |
+| Instrumental  |    C320   |     C540    |  <div class="green-background">Yes</div>  |    <div class="green-background">Yes</div>    |  <div class="green-background">Yes</div> |  <div class="green-background">Yes</div>  |
 
 ## Useful links
 - Current gas prices [https://www.fuzzwork.co.uk/ore/gas.php](https://www.fuzzwork.co.uk/ore/gas.php)
