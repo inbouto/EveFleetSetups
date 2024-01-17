@@ -48,7 +48,7 @@ Core Scanner Probe I x8
 ```
 </details>
 <details>
-  <summary>Prospect fit</summary>
+  <summary>minimal Prospect fit</summary>
 ```
 [Prospect, Sonic huffer]
 Warp Core Stabilizer I
