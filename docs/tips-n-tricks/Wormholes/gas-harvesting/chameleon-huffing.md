@@ -11,7 +11,7 @@ The term was (to my knowledge) coined by [Wadd Enderas in this video](https://yo
 
 ### Sites
 Only the following sites can be "Chameleon huffed"
-- Ordinary (Requires a very specific setup, **DO NOT WARP TO THAT SITE BEFORE READING [ORDINARY SITE SETUP](#Ordinary-site-setup)
+- Ordinary (Requires a very specific setup, **DO NOT WARP TO THAT SITE BEFORE READING [ORDINARY SITE SETUP](#Ordinary-site-setup)**
 - Bountiful
 - Vital
 - Instrumental
