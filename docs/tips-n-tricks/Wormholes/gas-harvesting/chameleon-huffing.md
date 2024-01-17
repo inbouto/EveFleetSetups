@@ -40,7 +40,7 @@ Once in a safe huffing spot outside of the rats' aggro range, **bookmark it** so
 
 :::iframe
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/JOKZ1N-miIk" frameborder="0" allowfullscreen></iframe> :::
+<iframe width="900" height="506" src="https://www.youtube.com/embed/JOKZ1N-miIk" frameborder="0" allowfullscreen></iframe>
 
 ## Ordinary site setup
 
@@ -57,4 +57,4 @@ This means you can still huff the entire "top" cloud by doing the following :
 
 :::iframe
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/2_1Ni9LM_Rk" frameborder="0" allowfullscreen></iframe> :::
+<iframe width="900" height="506" src="https://www.youtube.com/embed/2_1Ni9LM_Rk" frameborder="0" allowfullscreen></iframe>
