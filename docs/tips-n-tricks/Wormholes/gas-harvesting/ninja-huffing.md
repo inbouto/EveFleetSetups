@@ -11,7 +11,10 @@ The term "ninja huffing" comes from the old MMO concept of "ninja looting".
 
 ### Sites
 
-All sites can be ninja-huffed
+Only one site cannot be ninja-huffed : the [Ordinary Perimeter Reservoir](https://wiki.eveuniversity.org/Ordinary_Perimeter_Reservoir).
+:::warning
+**DO NOT WARP TO THE ORDINARY SITE**. It is **NOT SAFE**. That site can still however be [chameleon huffed](../chameleon-huffing#ordinary-site-setup)
+:::
 
 ### Ships
 
