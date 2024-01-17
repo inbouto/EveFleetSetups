@@ -72,5 +72,5 @@ Never warp at 0 on a cloud that could have rats on it.
 <iframe width="900" height="506" src="https://www.youtube.com/embed/_LMZBU7lcEQ" frameborder="0" allowfullscreen></iframe>
 
 :::note
-☝️This video incorrectly states you can Jedi huff Ordinary sites. He is in fact referring to [chameleon huffing on the Ordinary site](./chameleon-huffing#ordinary-site-setup).
+☝️This video incorrectly states you can Jedi huff Ordinary sites. He is in fact referring to [chameleon huffing on the Ordinary site](../chameleon-huffing#ordinary-site-setup).
 :::
