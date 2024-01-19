@@ -33,7 +33,7 @@ Rats will **always spawn at the site's warp point**, so during the 15-25 minutes
 Once you've put several hundreds of kms between you and the warp point, you should be safe from the rats' aggro.
 
 :::warning
-Pay attention to the rats. If you're too close to them, you'll still have time to escape. Watch them after they warp in, and leave if they all start flying towards you.
+Pay attention to the rats. If you're too close to them, you'll still have time to escape. Watch them after they warp in, and leave if they all start flying towards you. Consider Aligning to a Safe when they warp in.
 :::
 
 Once in a safe huffing spot outside of the rats' aggro range, **bookmark it** so you can warp back to it later without grabbing the rats' aggro.

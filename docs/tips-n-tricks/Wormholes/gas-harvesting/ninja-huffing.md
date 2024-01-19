@@ -22,11 +22,11 @@ All ships and fits can ninja-huff
 
 ## How to
 
-Whenever a player first warps to a site (gas site, ore belts, etc), a timer is triggered, at the end of which rats will spawn.
+Whenever a player first warps to a site (gas site, ore belts, etc) **and is uncloaked**, a timer is triggered, at the end of which rats will spawn.
 
 For Wormhole gas sites, that timer is anywhere between 15 and up to 25 minutes. To effectively Ninja huff, simply set a timer (on your phone for example) of 15 minutes right as you warp in. When it rings, keep an eye out for the rats, and be ready to warp out to your safe.
 
-Note that you should always be paying attention to your dscan and be ready to warp out at any time regardless of rats timer.
+Note that you should always be paying attention to your dscan and be ready to warp out at any time regardless of rats timer. 
 
 ### What to do if the rats don't spawn after 25-30 minutes ?
 

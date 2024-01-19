@@ -42,7 +42,7 @@ Small Low Friction Nozzle Joints I
 ```
 
 Notes :
-- T1 gas scoops can be (and should be, for solo huffing) upgraded for T2 scoops
+- T1 gas scoops can be (and should be, for solo huffing) upgraded for T2 scoops. This requires Gas Harvesting V. As T2 Gas Scoops have a residue probability, you should check with your FC when huffing in a group if T2s are acceptable.
 - Mid slots are very flexilbe. Favor speed and elusiveness over tank. If you get caught, you die, just warp out ASAP.
 - You can use a `Warp Core Stabilizer` in the low slot instead, but a lot of WH ganking ships have +5 or +6 warp scrambling strength. Just get out of there before they can lock you, don't hope they can't scram you.
 
@@ -62,3 +62,7 @@ Long version:
 <iframe width="900" height="506" src="https://www.youtube.com/embed/4T10zNYlywc" frameborder="0" allowfullscreen></iframe>
 :::
 
+## Healthy Paranoia
+- Always be Dscanning! Dscan can reveal a variety of hints about a system, like:
+  - Core/Sisters Scanner Probes - these let you know there's another ship out there scanning as well. It's something to be aware of, but is not an immediate signal for danger. If you see another T1 explorer on Dscan, its possible they are another explorer like you. Still, caution is advised; consider aligning to your safe.
+  - Combat Scanner Probes - immediate cause for alarm. it's a safe assumption that anyone with Combat probes is on the hunt, and you should consider immediately running. If you have a cloak, you should warp to your safe and activate it (activate before, if you're running Covops). If you do not have a cloak, it can be smart to pingpong around various celestial bodies and your safe to help deter any would-be attacked. You might not want to immediately warp to the escape hole (you did bookmark your exit, right?), as they might be cloaked on it. For example, if you're in a hole with a known hi-sec static, and that's your escape plan, the hunter would likely have this knowledge as well.

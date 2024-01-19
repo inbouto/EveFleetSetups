@@ -23,6 +23,6 @@ Since ninja huffing and chameleon huffing don't require a specific ship or fit, 
 
 ## Useful links
 - Current gas prices [https://www.fuzzwork.co.uk/ore/gas.php](https://www.fuzzwork.co.uk/ore/gas.php)
-- Wormhole tracker (keeps track of WHs you explore in real time) [https://pathfinder.lost-in-w.space/](https://pathfinder.lost-in-w.space/)
+- Wormhole tracker (keeps track of WHs you explore in real time, can display information on statics) [https://pathfinder.lost-in-w.space/](https://pathfinder.lost-in-w.space/)
 - Sites rats and clouds [https://wiki.eveuniversity.org/Wormhole_sites#Gas_sites](https://wiki.eveuniversity.org/Wormhole_sites#Gas_sites)
 - List and details of all J-space systems [http://anoik.is/systems](http://anoik.is/systems) ⚠️DO NOT LOG IN WITH YOUR EVE ACCOUNT ON THIS WEBSITE, it is INSECURE with HTTP, not HTTPS. You can still use the website safely, just don't enter any private information⚠️
