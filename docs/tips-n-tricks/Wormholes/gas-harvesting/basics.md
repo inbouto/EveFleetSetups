@@ -42,7 +42,7 @@ Small Low Friction Nozzle Joints I
 ```
 
 Notes :
-- T1 gas scoops can be (and should be, for solo huffing) upgraded for T2 scoops
+- T1 gas scoops can be (and should be, for solo huffing) upgraded for T2 scoops. This requires Gas Harvesting V, and has a residue probability, so should not be used when huffing with a group.
 - Mid slots are very flexilbe. Favor speed and elusiveness over tank. If you get caught, you die, just warp out ASAP.
 - You can use a `Warp Core Stabilizer` in the low slot instead, but a lot of WH ganking ships have +5 or +6 warp scrambling strength. Just get out of there before they can lock you, don't hope they can't scram you.
 
