@@ -18,11 +18,11 @@ Only one site cannot be ninja-huffed : the [Ordinary Perimeter Reservoir](https:
 
 ### Ships
 
-All ships and fits can ninja-huff
+All ships and fits can ninja-huff, as it requires no specific gear.
 
 ## How to
 
-Whenever a player first warps to a site (gas site, ore belts, etc), a timer is triggered, at the end of which rats will spawn.
+Whenever a player first warps to a site (gas site, ore belts, etc) **and is uncloaked**, a timer is triggered, at the end of which rats will spawn.
 
 For Wormhole gas sites, that timer is anywhere between 15 and up to 25 minutes. To effectively Ninja huff, simply set a timer (on your phone for example) of 15 minutes right as you warp in. When it rings, keep an eye out for the rats, and be ready to warp out to your safe.
 
